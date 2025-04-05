@@ -1,16 +1,16 @@
 Hi 👋 My name is 김효겸#KR / Kyner Grim#EN
 =======================================
 
-SW Engineer \[Game & App & Spatial Computing & XR\]
+SW Engineer \[Game & Digital-Twin & XR\]
 ---------------------------------------------------
 
 I'm developer who enjoys designing design pattern-based structures for implementing features and communicates and collaborates extensively with team members.
 
-* 🌍  I'm based in Seoul / KR
-* ✉️  You can contact me at [kghm123@naver.com](mailto:kghm123@naver.com)
+* 🌍  I'm based in Osaka / JP
+* ✉️  You can contact me at [kghm1231@gmail.com](mailto:kghm1231@gmail.com)
 * 🧠  I'm learning Unreal Engine 4,5 / Unity3D / C++ / Computer Science
 * 🤝  I'm open to collaborating on UE, Unity Based Game, Graphic, Digital-Twin, VR/AR Project
-* ⚡  Looking for a job as soon as fast
+* ⚡  Now studying graduate school
 
 ### Skills
 
