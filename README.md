@@ -10,7 +10,7 @@ I'm developer who enjoys designing design pattern-based structures for implement
 * ✉️  You can contact me at [kghm1231@gmail.com](mailto:kghm1231@gmail.com)
 * 🧠  I'm learning Unreal Engine 4,5 / Unity3D / C++ / Computer Science
 * 🤝  I'm open to collaborating on UE, Unity Based Game, Graphic, Digital-Twin, VR/AR Project
-* ⚡  Now studying graduate school
+* ⚡  Now studying in graduate school
 
 ### Skills
 
